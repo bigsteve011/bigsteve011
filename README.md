@@ -41,7 +41,7 @@ My expertise lies in creating policies and procedures, creating and managing ris
 * **Core Focus:** Client Security Questionnaires, Sub-processor Assessments, and Compliance Evidence Packs
 * **Key Use Case:** Accelerates vendor onboarding while ensuring strong third-party risk governance and visibility into vendor compliance postures
 
-#### 🤖 [ISO 42001 AI Governance & Audit Evidence Mapping](https://github.com/stephenomowumi/iso42001-audit-readiness)
+#### 🤖 [ISO 42001 AI Governance & Audit Evidence Mapping](https://github.com/bigsteve011/iso42001-audit-readiness/blob/main/README-iso42001-audit-readiness.md)
 *An audit readiness blueprint mapped to the ISO/IEC 42001 Artificial Intelligence Management System (AIMS) standard.*
 * **Core Focus:** AI Controls Governance, Ethical/Algorithmic Risk Management, Policy Continuous Improvement
 * **Key Use Case:** Provides a clean model for structuring audit evidence logs, policy tracking, and control validation across emerging AI management systems
