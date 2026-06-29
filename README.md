@@ -31,7 +31,7 @@ My expertise lies in creating policies and procedures, creating and managing ris
 
 ### 🔬 Featured GRC Repositories & Focus Areas
 
-#### 📋 [Enterprise Risk & Remediation Governance Engine](https://https://github.com/bigsteve011/enterprise-risk-tracker/blob/main/README-enterprise-risk-tracker.md)
+#### 📋 [Enterprise Risk & Remediation Governance Engine](https://github.com/bigsteve011/enterprise-risk-tracker/blob/main/README-enterprise-risk-tracker.md)
 *A structured simulation showcasing a robust risk register workflow designed to track vulnerabilities from initial identification through to residual risk validation and closure.*
 * **Core Focus:** Risk Registers, SLA Management, Control Mapping (NIST CSF / ISO 27001).
 * **Key Use Case:** Demonstrates structured risk tracking and remediation accountability mechanisms to improve audit issue closure efficiency.
