@@ -66,7 +66,7 @@ My expertise lies in creating policies and procedures, creating and managing ris
 
 ### 🤝 Let's Connect & Collaborate
 
-* **Location:** Krakow, Poland 🇵🇵
+* **Location:** Krakow, Poland.
 * **Professional Networking:** [LinkedIn Profile](https://www.linkedin.com/in/stephen-omowumi-6b59b14a/)
 * **Strategic Focus:** Let's collaborate on enterprise risk automation, cloud security governance, operational resilience (DORA), and building seamless evidence-gathering pipelines for multi-framework compliance audits.
 
