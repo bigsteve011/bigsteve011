@@ -9,12 +9,15 @@ My expertise lies in creating policies and procedures, creating and managing ris
 
 ### 🛡️ Core Competencies & Expertise
 
+## Core Competencies
+
 * **Enterprise Risk Management:** Inherent & Residual Risk Analysis, Risk Treatment Planning, Risk Register Management, and Remediation Tracking.
-* **Cybersecurity Audits & Assurance:** End-to-end Cyber & IT Audit Execution, Internal/External Controls Testing, Compliance Artifact Curation, and Gap Analysis.
 * **Governance, Risk & Compliance (GRC):** Security Governance Framework Design, Control Framework Optimization, Policy Lifecycle Management, Exception Management, and KPI/KRI Reporting.
+* **Cybersecurity Audit & Assurance:** End-to-end Cyber & IT Audit Execution, Internal/External Controls Testing, ISO/IEC 27001 & ISO 42001 Audits, Control Effectiveness Reviews, Gap Analysis, and Compliance Artifact Curation.
 * **Third-Party Risk Management (TPRM):** Vendor Risk Assessments, Security Questionnaire Governance, Sub-processor Reviews, and Contractual Security Reviews (MSA/DPA).
-* **Audit & Assurance:** Cyber & IT Audit Execution, ISO/IEC 27001 & ISO 42001 Audits, Control Effectiveness Reviews, and Compliance Artifact Curation.
-* **Regulatory Compliance & Frameworks:** ISO/IEC 27001:2022, ISO 42001:2023, ISO 27701:2025 NIST CSF, NIST 800-53, DORA, GDPR, and PCI DSS.
+* **Business Continuity & Resilience:** Business Continuity Planning (BCP), Disaster Recovery (DR), Business Impact Analysis, Tabletop Exercise Design & Facilitation, and Incident Response Testing.
+* **Security Awareness & Training:** Curriculum Design & Delivery, Role-Based Training Programs, Phishing Simulation & Social Engineering Testing, Security Culture Measurement, and Awareness Metrics/Reporting.
+* **Regulatory Compliance & Frameworks:** ISO/IEC 27001:2022, ISO 42001:2023, ISO 27701:2025, NIST CSF, NIST 800-53, CIS, COBIT, DORA, GDPR, and PCI DSS.
 
 ---
 
@@ -25,7 +28,7 @@ My expertise lies in creating policies and procedures, creating and managing ris
 | **GRC Tools & Infrastructure** | ServiceNow IRM, Excel Risk Trackers & Evidence Repositories, SimpleRisk, Metric Stream 7, RSA Archer |
 | **Security & SIEM Stack** | Microsoft Sentinel, Splunk, Azure Security Center, Microsoft Defender for Endpoint/Cloud |
 | **Frameworks & Standards** | ISO 27001, ISO 42001, ISO 27005, ISO 27701 NIST CSF, DORA, GDPR, PCI DSS |
-| **Technical Core** | Telecommunication $ Computer Networks, Ntework and Cloud Infrastructure Security, Access Controls (IAM) |
+| **Technical Core** | Telecommunication & Computer Networks, Ntework and Cloud Infrastructure Security, Access Controls (IAM) |
 
 ---
 
