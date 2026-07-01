@@ -49,6 +49,11 @@ My expertise lies in creating policies and procedures, creating and managing ris
 * **Core Focus:** AI Controls Governance, Ethical/Algorithmic Risk Management, Policy Continuous Improvement
 * **Key Use Case:** Provides a clean model for structuring audit evidence logs, policy tracking, and control validation across emerging AI management systems
 
+#### 🛡️ [ISO 27701 PIMS Implementation & Privacy Governance Blueprint](https://github.com/bigsteve011/iso-27701-2025-pims-implementation)
+*An end-to-end Privacy Information Management System (PIMS) reference implementation aligned to the stand-alone ISO/IEC 27701:2025 standard.*
+* **Core Focus:** Privacy Governance, Controller/Processor Obligations, Privacy Risk Treatment, Data Subject Rights
+* **Key Use Case:** Provides an audit-ready model for scoping a PIMS, building the SoA, RoPA, and privacy risk register, and mapping controls to GDPR & CCPA/CPRA
+
 ---
 
 ### 📜 Certifications & Credentials
