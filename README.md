@@ -28,6 +28,7 @@ My expertise lies in creating policies and procedures, creating and managing ris
 | Domain | Technologies & Platforms |
 | :--- | :--- |
 | **GRC Tools & Infrastructure** | ServiceNow IRM, Excel Risk Trackers & Evidence Repositories, SimpleRisk, Metric Stream 7, RSA Archer |
+| **Quantitative Risk & Analytics** | Python (NumPy, SciPy), Monte Carlo Simulation, FAIR Framework, Statistical Analysis |
 | **Security & SIEM Stack** | Microsoft Sentinel, Splunk, Azure Security Center, Microsoft Defender for Endpoint/Cloud |
 | **Frameworks & Standards** | ISO 27001, ISO 42001, ISO 27005, ISO 27701 NIST CSF, DORA, GDPR, PCI DSS |
 | **Technical Core** | Telecommunication & Computer Networks, Ntework and Cloud Infrastructure Security, Access Controls (IAM) |
@@ -82,6 +83,31 @@ My expertise lies in creating policies and procedures, creating and managing ris
 
 ---
 
+### 📊 Portfolio Overview: Complete GRC Risk Lifecycle
+
+My six repositories form a comprehensive GRC framework covering the full risk lifecycle:
+
+```
+STRATEGY & GOVERNANCE
+├── ISO 42001: AI Governance Architecture
+├── ISO 27701: Privacy Governance Architecture
+└── FAIR Quantitative Risk: Risk-Based Decision Making
+        ↓
+ASSESSMENT & MEASUREMENT
+├── NIST CSF 2.0: Control Effectiveness Evaluation
+├── Enterprise Risk Register: Quantified Impact Tracking
+└── TPRM Framework: Third-Party Risk Measurement
+        ↓
+REMEDIATION & OPTIMIZATION
+├── Compliance Artifact Management
+├── SLA-based Remediation Tracking
+└── Evidence-Driven Continuous Improvement
+```
+
+**Key differentiator:** Most GRC professionals focus on frameworks and documentation. I combine **audit-grade governance with quantitative risk modeling and operational control measurement** — providing both compliance visibility and business risk quantification.
+
+---
+
 ### 📜 Certifications & Credentials
 
 * **ISO/IEC 42001:2023** Lead Auditor (Artificial Intelligence Management Systems)
@@ -94,7 +120,7 @@ My expertise lies in creating policies and procedures, creating and managing ris
 * **M.Sc. in Telecommunication Management**
 * **B.Sc. in Telecommunication Science**
 * *Certified Information Systems Auditor (CISA) — In View*
-* *Certified Information Security Manager (CISA) — In View*
+* *Certified Information Security Manager (CISM) — In View*
 
 ---
 
@@ -102,7 +128,29 @@ My expertise lies in creating policies and procedures, creating and managing ris
 
 * **Location:** Krakow, Poland.
 * **Professional Networking:** [LinkedIn Profile](https://www.linkedin.com/in/stephen-omowumi-6b59b14a/)
-* **Strategic Focus:** Let's collaborate on enterprise risk automation, cloud security governance, operational resilience (DORA), and building seamless evidence-gathering pipelines for multi-framework compliance audits.
+* **Strategic Focus:** Enterprise risk automation, quantitative risk modeling (FAIR), control effectiveness assessment (NIST CSF 2.0), cloud security governance, operational resilience (DORA), and building seamless evidence-gathering pipelines for multi-framework compliance audits.
+---
+
+### 💡 Recent Focus: Quantitative Risk & Control Effectiveness
+
+I'm actively developing Python-based tools for:
+- **Quantitative Risk Modeling:** FAIR methodology, Monte Carlo simulation, Beta-PERT distributions, Annualized Loss Exposure (ALE) calculation for executive decision-making
+- **Control Effectiveness Assessment:** NIST CSF 2.0 maturity evaluation, control effectiveness factor measurement (0.0-1.0), automated gap analysis and remediation prioritization
+- **Risk-Driven Compliance:** Connecting quantitative risk metrics to compliance frameworks, ensuring audit evidence is backed by operational risk data
+
+---
+
+### 🎯 What Sets My Work Apart
+
+| Aspect | Typical GRC Consultant | My Approach |
+|--------|------------------------|-------------|
+| Risk Assessment | High/Medium/Low ratings | Quantified financial impact (€ ALE) |
+| Control Evaluation | Existence verification | Maturity + effectiveness measurement |
+| Remediation Priority | Compliance checklist order | Risk-based prioritization |
+| Business Language | Audit terminology | Executive-friendly risk metrics |
+| Implementation | Documentation & frameworks | Production code + documentation |
+
+---
 
 ***
 
