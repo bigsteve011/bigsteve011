@@ -116,7 +116,7 @@ REMEDIATION & OPTIMIZATION
 * **CompTIA Cybersecurity Analyst+ (CySA+)**
 * **CompTIA Security+ (Sec+)**
 * **Certified Security Awareness Specialist** (Proofpoint)
-* **M.A. in Business Administration** | Akademia Nauk Stosowanych, Poland
+* **M.A. in Business Administration**
 * **M.Sc. in Telecommunication Management**
 * **B.Sc. in Telecommunication Science**
 * *Certified Information Systems Auditor (CISA) — In View*
