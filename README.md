@@ -3,7 +3,7 @@
 
 I am a certified Information Security Risk and GRC professional with over 6 years of experience leading enterprise security risk assessments, control assurance, audit execution, and Third-Party Risk Management (TPRM) across regulated financial services, cloud, and enterprise environments.
 
-My expertise lies in creating policies and procedures, creating and managing risk registers, conducting inherent and residual risk assessments, driving control testing and remediation, and ensuring alignment with international standards and frameworks (ISO 27001, ISO 42001, NIST CSF, DORA, and GDPR). I specialize in translating complex technical vulnerabilities into quantifiable business impact to support senior leadership decision-making and understanding.
+My expertise lies in creating policies and procedures, creating and managing risk registers, conducting inherent and residual risk assessments, driving control testing and remediation, and ensuring alignment with international standards and frameworks (ISO 27001, ISO 42001, NIST CSF, DORA, and GDPR). I specialize in **translating complex technical vulnerabilities into quantifiable business impact** and **measuring control effectiveness** to support senior leadership decision-making and understanding.
 
 ---
 
@@ -13,6 +13,8 @@ My expertise lies in creating policies and procedures, creating and managing ris
 
 * **Enterprise Risk Management:** Inherent & Residual Risk Analysis, Risk Treatment Planning, Risk Register Management, and Remediation Tracking.
 * **Governance, Risk & Compliance (GRC):** Security Governance Framework Design, Control Framework Optimization, Policy Lifecycle Management, Exception Management, and KPI/KRI Reporting.
+* **Quantitative Risk Analysis:** FAIR Methodology, Monte Carlo Simulation, Beta-PERT Distribution, Annualized Loss Exposure (ALE) Calculation, and Risk-Based Investment Decision Support.
+* **Control Effectiveness & Maturity Assessment:** NIST CSF 2.0 Evaluation, Maturity Scoring (1-5 Scale), Effectiveness Factor Measurement (0.0-1.0), and Gap Analysis with Prioritized Recommendations.  
 * **Cybersecurity Audit & Assurance:** End-to-end Cyber & IT Audit Execution, Internal/External Controls Testing, ISO/IEC 27001 & ISO 42001 Audits, Control Effectiveness Reviews, Gap Analysis, and Compliance Artifact Curation.
 * **Third-Party Risk Management (TPRM):** Vendor Risk Assessments, Security Questionnaire Governance, Sub-processor Reviews, and Contractual Security Reviews (MSA/DPA).
 * **Business Continuity & Resilience:** Business Continuity Planning (BCP), Disaster Recovery (DR), Business Impact Analysis, Tabletop Exercise Design & Facilitation, and Incident Response Testing.
@@ -34,20 +36,44 @@ My expertise lies in creating policies and procedures, creating and managing ris
 
 ### 🔬 Featured GRC Repositories & Focus Areas
 
+#### 📊 [FAIR Quantitative Risk Analysis Engine](https://github.com/bigsteve011/Quantitative-Risk-Analysis-Engine-FAIR-Methodology)
+*A production-ready Monte Carlo simulation implementing Factor Analysis of Information Risk (FAIR) methodology to quantify cybersecurity financial impact.*
+* **Core Focus:** Quantitative risk modeling, Beta-PERT distributions, Annualized Loss Exposure (ALE) calculation, and risk-based investment ROI analysis.
+* **Key Innovation:** Translates technical vulnerabilities (e.g., ransomware attacks on critical infrastructure) into quantified business risk metrics that drive executive decision-making.
+* **Business Value:** Enables board-level risk reporting with statistical confidence intervals; justifies security control investments with calculated return on investment.
+* **Technology:** Python (NumPy, SciPy) | 10,000-trial Monte Carlo simulation | Production-ready code
+
+---
+
+#### 🛡️ [NIST CSF 2.0 Security Maturity & Control Effectiveness Assessment Tool](https://github.com/bigsteve011/NIST-CSF-2.0-Security-Control-Effectiveness-Maturity-Assessment-Tool)
+*An interactive assessment framework that bridges compliance auditing and operational security by evaluating both control maturity and real-world effectiveness.*
+* **Core Focus:** NIST Cybersecurity Framework 2.0 assessment across 6 Functions (Govern, Identify, Protect, Detect, Respond, Recover), maturity-level scoring (1-5), and control effectiveness factor measurement (0.0-1.0).
+* **Key Innovation:** Introduces Control Effectiveness Factor to distinguish organizations that are "audit-ready" (compliant on paper) from those that are "attack-ready" (controls actually work).
+* **Business Value:** Generates automated gap analysis and prioritized remediation recommendations based on operational control maturity; connects compliance requirements to real-world implementation.
+* **Technology:** Python (Standard Library Only) | Interactive questionnaire | Automated recommendations | Zero external dependencies
+
+----
+
 #### 📋 [Enterprise Risk & Remediation Governance Engine](https://github.com/bigsteve011/enterprise-risk-tracker/blob/main/README-enterprise-risk-tracker.md)
 *A structured simulation showcasing a robust risk register workflow designed to track vulnerabilities from initial identification through to residual risk validation and closure.*
 * **Core Focus:** Risk Registers, SLA Management, Control Mapping (NIST CSF / ISO 27001).
 * **Key Use Case:** Demonstrates structured risk tracking and remediation accountability mechanisms to improve audit issue closure efficiency.
+
+----
 
 #### 🤝 [Third-Party Risk & Vendor Due Diligence Framework](https://github.com/bigsteve011/tprm-governance/blob/main/README-tprm-governance.md)
 *A framework designed to streamline third-party risk management workflows, security questionnaire assessments, and vendor tiering methodologies.*
 * **Core Focus:** Client Security Questionnaires, Sub-processor Assessments, and Compliance Evidence Packs
 * **Key Use Case:** Accelerates vendor onboarding while ensuring strong third-party risk governance and visibility into vendor compliance postures
 
+----
+
 #### 🤖 [ISO 42001 AI Governance & Audit Evidence Mapping](https://github.com/bigsteve011/iso42001-audit-readiness/blob/main/README-iso42001-audit-readiness.md)
 *An audit readiness blueprint mapped to the ISO/IEC 42001 Artificial Intelligence Management System (AIMS) standard.*
 * **Core Focus:** AI Controls Governance, Ethical/Algorithmic Risk Management, Policy Continuous Improvement
 * **Key Use Case:** Provides a clean model for structuring audit evidence logs, policy tracking, and control validation across emerging AI management systems
+
+----
 
 #### 🛡️ [ISO 27701 PIMS Implementation & Privacy Governance Blueprint](https://github.com/bigsteve011/iso-27701-2025-pims-implementation)
 *An end-to-end Privacy Information Management System (PIMS) reference implementation aligned to the stand-alone ISO/IEC 27701:2025 standard.*
