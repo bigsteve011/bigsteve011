@@ -128,6 +128,7 @@ REMEDIATION & OPTIMIZATION
 
 * **Location:** Krakow, Poland.
 * **Professional Networking:** [LinkedIn Profile](https://www.linkedin.com/in/stephen-omowumi-6b59b14a/)
+* **Certifications Hub:** [Certification Badges](https://www.credly.com/users/stephen-omowumi.e854fb1c/badges/credly)
 * **Strategic Focus:** Enterprise risk automation, quantitative risk modeling (FAIR), control effectiveness assessment (NIST CSF 2.0), cloud security governance, operational resilience (DORA), and building seamless evidence-gathering pipelines for multi-framework compliance audits.
 ---
 
